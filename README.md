@@ -4,4 +4,4 @@ I've analyzed data from manually tracking personal golf stats:
 - ~25% include distance and direction result based on intended shot (ex: long and left)
 
 
-[chart](images/FW outside 70 yards 2.png)
+[chart](https://github.com/ricdurh/Personal_Golf_Strokes_Gained/blob/main/images/FW outside 70 yards 2.png)
