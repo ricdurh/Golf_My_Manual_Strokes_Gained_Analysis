@@ -4,6 +4,14 @@ I've analyzed data from manually tracking personal golf stats:
 - ~25% include distance and direction result based on intended shot (ex: long and left)
 
 
+## Shot Location Frequency Bubble Map and Table by Distance and Lie, with Average Strokes Gained
+
+![](/images/_bubble_map.png)
+
+
+![](/images/_shots_sg_table.png)
+
+
 ## Strokes Gained by Distance from Off the Green
 Here is a distribution of the strokes gained by distance to the hole for shots from off the green. The colors indicate the lie of the shot (T=Tee, R=Rough, F=Fairway, X=Recovery, S=Sand).
 
@@ -36,12 +44,6 @@ These two graphs show shots from the fairway outside 70 yards.
 
 ![](/images/W_outside_70_yards_2.png)
 
-## Shot Location Frequency Bubble Map and Table by Distance and Lie, with Average Strokes Gained
-
-![](/images/_bubble_map.png)
-
-
-![](/images/_shots_sg_table.png)
 
 
 ### Heatmap of Shot Results (based on intended target) with Average Strokes Gained
