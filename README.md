@@ -38,9 +38,11 @@ These two graphs show shots from the fairway outside 70 yards.
 
 ### Shot Location Frequency Heatmap by Distance and Lie, with Average Strokes Gained
 
-![](/images/Shot_Location_Freq_and_SG_avg.png)
+![](/images/_bubble_map.png)
+
+![](/images/_shots_sg_table.png)
 
 ### Heatmap of Shot Results (based on intended target) with Average Strokes Gained
 For ~25% of the shots there's data on where the shot went relative to intended target. This results in a 7x7 matrix with distance on the y-axis and direction on the x-axis.
 
-![](/images/_bubble_map.png)
+![](/images/heatmap_1.png)
