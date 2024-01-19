@@ -18,22 +18,22 @@ Here is a distribution of the strokes gained by distance to the hole for shots f
 ![](/images/SG_dist_not_on_green.png)
 
 ## Strokes Gained on the Green
-This shows the distribution of strokes gained from shots on the green. The pattern for positive strokes gained inside 30 feet are due to the binary nature of a made putt having a certain strokes gained, and a missed putt from these distances resulting in some level of negative strokes gained
+This shows the distribution of strokes gained from shots on the green. The pattern for positive strokes gained inside 30 feet are due to the binary nature of a made putt having a certain strokes gained, and a missed putt from these distances resulting in some level of negative strokes gained.
 
 ![](/images/SG_green.png)
 
 ## Strokes Gained by Hole and Lie
-This shows the distribution of strokes gained by hole and lie
+This shows the distribution of strokes gained by hole and lie.
 
 ![](/images/SG_by_Hole_and_Lie.png)
 
 ## Putting Strokes Gained by Distance (feet)
-This shows the boxplots of putting strokes gained by distance in feet. A boxplot shows the distribution of data. These boxplots show dots as outliers on the low and high side, then the outer regions and the middle of the rectangle represent the 25th, 50th, 75th percentiles of the distribution.
+This shows the boxplots of putting strokes gained by distance in feet. A boxplot shows the distribution of data. These boxplots show dots as outliers on the low and high sides, then the outer regions and the middle of the rectangle represent the 25th, 50th, and 75th percentiles of the distribution.
 
 ![](/images/Putting_SG_by_dist.png)
 
 ## Greenside Rough Under 20 Yards
-This shows the boxplots for shots under 20 yards in the rough by club. For a period, I switched between using a 60 and 62 degree wedge.
+This shows the boxplots for shots under 20 yards in the rough by club. For a period, I switched between using a 60 and 62-degree wedge.
 
 ![](/images/Greenside_Rough.png)
 
