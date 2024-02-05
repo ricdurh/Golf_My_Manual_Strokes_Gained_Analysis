@@ -28,14 +28,6 @@ This shows the distribution of strokes gained by hole and lie.
 ![](/images/SG_by_Hole_and_Lie.png)
 
 
-## Fairway Outside 70 Yards
-These two graphs show shots from the fairway outside 70 yards.
-
-![](/images/FW_outside_70_yards.png)
-
-![](/images/W_outside_70_yards_2.png)
-
-
 
 ### Heatmap of Shot Results (based on intended target) with Average Strokes Gained
 For ~25% of the shots, there's data on where the shot went relative to the intended target. This results in a 7x7 matrix with distance on the y-axis and direction on the x-axis. The frequency is shown by the color from light to dark indicating low to high frequency.
