@@ -27,15 +27,6 @@ This shows the distribution of strokes gained by hole and lie.
 
 ![](/images/SG_by_Hole_and_Lie.png)
 
-## Putting Strokes Gained by Distance (feet)
-This shows the boxplots of putting strokes gained by distance in feet. A boxplot shows the distribution of data. These boxplots show dots as outliers on the low and high sides, then the outer regions and the middle of the rectangle represent the 25th, 50th, and 75th percentiles of the distribution.
-
-![](/images/Putting_SG_by_dist.png)
-
-## Greenside Rough Under 20 Yards
-This shows the boxplots for shots under 20 yards in the rough by club. For a period, I switched between using a 60 and 62-degree wedge.
-
-![](/images/Greenside_Rough.png)
 
 ## Fairway Outside 70 Yards
 These two graphs show shots from the fairway outside 70 yards.
